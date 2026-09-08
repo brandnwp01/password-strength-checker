@@ -5,15 +5,14 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 100px;
-    margin: 0;
+    height: 100px;    margin: 0
 }
 h1 {
     margin-bottom: 0;
     font-weight: 100;
     font-size: 70px;
     transform: scaleY(1.2);
-    margin-top: 150px;
+    margin-top: 150px
 }
 h2 {
     color: #6b533c;
@@ -32,6 +31,7 @@ h2 {
     letter-spacing: 0.5px;
     box-shadow: 0 4px 12px rgba(7, 7, 7, 0.15);
     margin-top: 20px;
+
 }
 
 .check-btn:hover {
